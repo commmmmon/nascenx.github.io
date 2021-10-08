@@ -1,3 +1,18 @@
-p{
+body{
+	background-color:black;
+	color:white;
+	margin-top:30px;
+	margin-left:30px;
+}
+
+#introduction > h1{
 	font-family:"consolas";
+}
+
+#introduction > p{
+	font-family:"consolas";
+}
+
+.char{
+	color:rgb(82, 186, 255)
 }
