@@ -1,9 +1,14 @@
 body{text-align:center}
 
 div{
-    border:10px dashed rgb(0, 0, 255);
+    border:75px dashed rgb(255, 0, 255);
+
+    font-family:"宋体";
+
+    color:rgb(0, 255, 0);
    
-    color:rgb(255, 0, 0);
-   
-    background-color:rgb(251, 255, 12)
+    background-color:rgb(130, 0, 255);
+
 }
+
+h2{font-weight: bolder;}
