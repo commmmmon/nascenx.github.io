@@ -1,0 +1,9 @@
+body{text-align:center}
+
+div{
+    border:10px dashed rgb(0, 0, 255);
+   
+    color:rgb(255, 0, 0);
+   
+    background-color:rgb(251, 255, 12)
+}
