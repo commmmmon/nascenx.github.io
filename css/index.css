@@ -1,7 +1,7 @@
 body{text-align:center}
 
 div{
-    border:75px dashed rgb(255, 0, 255);
+    border:30px dashed rgb(255, 0, 255);
 
     font-family:"宋体";
 
@@ -11,4 +11,4 @@ div{
 
 }
 
-h2{font-weight: bolder;}
+h2{font-weight:100;}
