@@ -1,18 +1,41 @@
 body{
-	background-color:black;
-	color:white;
-	margin-top:30px;
-	margin-left:30px;
+	background-color:rgb(255, 239, 168);
+	color:black;
+	margin:30px;
 }
 
+
 #introduction > h1{
-	font-family:"consolas";
+	font-family:"微软雅黑";
+	font-size: 50px;
 }
 
 #introduction > p{
-	font-family:"consolas";
+	font-family:"微软雅黑";
+	font-size: 23px;
 }
 
 .char{
-	color:rgb(82, 186, 255)
+	color:indianred
+}
+
+#introduction {
+	border:10px solid indianred;
+	padding-left:20px;
+	padding-bottom:20px;
+	padding-right:20px;
+}
+
+.introduction{
+	text-align:center;
+}
+
+#photo1{
+	margin-top:60px;
+	float:right;
+	width:600px;
+}
+
+div.photo1-end{
+	clear:both;
 }
