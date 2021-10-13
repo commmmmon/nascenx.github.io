@@ -1,14 +1,21 @@
-body{text-align:center}
-
-div{
+body{text-align:center;
     border:30px dashed rgb(255, 0, 255);
+    background-color:rgb(130, 0, 255);
+}
+
+div.wswsws{
+
 
     font-family:"宋体";
 
     color:rgb(0, 255, 0);
-   
-    background-color:rgb(130, 0, 255);
+}
 
+div.qaqaqa{
+
+    margin-left: 750px;
+    margin-right: 750px;
+    border:50px solid yellow;
 }
 
 h2{font-weight:100;}
